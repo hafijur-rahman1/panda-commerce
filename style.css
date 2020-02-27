@@ -20,7 +20,7 @@
     cursor: pointer;
 }
 .cat1, .cat2, .cat3{
-    padding: 10px 30px;
+    padding: 10px 15px;
     border-radius: 10px;
 }
 .cat1{
@@ -38,4 +38,17 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#suscriber{
+    height: 300px;
+}
+#subscriber h6{
+    color: grey;
+}
+footer{
+    text-align: center;
 }
